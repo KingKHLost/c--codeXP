@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\C#\Colocando o Email\bin\Debug\netcoreapp2.2\Colocando o Email.deps.json
+C:\Users\fic\Documents\C#\Colocando o Email\bin\Debug\netcoreapp2.2\Colocando o Email.runtimeconfig.json
+C:\Users\fic\Documents\C#\Colocando o Email\bin\Debug\netcoreapp2.2\Colocando o Email.runtimeconfig.dev.json
+C:\Users\fic\Documents\C#\Colocando o Email\bin\Debug\netcoreapp2.2\Colocando o Email.dll
+C:\Users\fic\Documents\C#\Colocando o Email\bin\Debug\netcoreapp2.2\Colocando o Email.pdb
+C:\Users\fic\Documents\C#\Colocando o Email\obj\Debug\netcoreapp2.2\Colocando o Email.csprojAssemblyReference.cache
+C:\Users\fic\Documents\C#\Colocando o Email\obj\Debug\netcoreapp2.2\Colocando o Email.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\C#\Colocando o Email\obj\Debug\netcoreapp2.2\Colocando o Email.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\C#\Colocando o Email\obj\Debug\netcoreapp2.2\Colocando o Email.AssemblyInfo.cs
+C:\Users\fic\Documents\C#\Colocando o Email\obj\Debug\netcoreapp2.2\Colocando o Email.dll
+C:\Users\fic\Documents\C#\Colocando o Email\obj\Debug\netcoreapp2.2\Colocando o Email.pdb

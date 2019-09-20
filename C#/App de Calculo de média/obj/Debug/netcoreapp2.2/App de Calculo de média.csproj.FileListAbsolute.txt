@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\C#\App de Calculo de média\bin\Debug\netcoreapp2.2\App de Calculo de média.deps.json
+C:\Users\fic\Documents\C#\App de Calculo de média\bin\Debug\netcoreapp2.2\App de Calculo de média.runtimeconfig.json
+C:\Users\fic\Documents\C#\App de Calculo de média\bin\Debug\netcoreapp2.2\App de Calculo de média.runtimeconfig.dev.json
+C:\Users\fic\Documents\C#\App de Calculo de média\bin\Debug\netcoreapp2.2\App de Calculo de média.dll
+C:\Users\fic\Documents\C#\App de Calculo de média\bin\Debug\netcoreapp2.2\App de Calculo de média.pdb
+C:\Users\fic\Documents\C#\App de Calculo de média\obj\Debug\netcoreapp2.2\App de Calculo de média.csprojAssemblyReference.cache
+C:\Users\fic\Documents\C#\App de Calculo de média\obj\Debug\netcoreapp2.2\App de Calculo de média.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\C#\App de Calculo de média\obj\Debug\netcoreapp2.2\App de Calculo de média.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\C#\App de Calculo de média\obj\Debug\netcoreapp2.2\App de Calculo de média.AssemblyInfo.cs
+C:\Users\fic\Documents\C#\App de Calculo de média\obj\Debug\netcoreapp2.2\App de Calculo de média.dll
+C:\Users\fic\Documents\C#\App de Calculo de média\obj\Debug\netcoreapp2.2\App de Calculo de média.pdb

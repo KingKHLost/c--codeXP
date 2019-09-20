@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\C#\Calculo de Idades\bin\Debug\netcoreapp2.2\Calculo de Idades.deps.json
+C:\Users\fic\Documents\C#\Calculo de Idades\bin\Debug\netcoreapp2.2\Calculo de Idades.runtimeconfig.json
+C:\Users\fic\Documents\C#\Calculo de Idades\bin\Debug\netcoreapp2.2\Calculo de Idades.runtimeconfig.dev.json
+C:\Users\fic\Documents\C#\Calculo de Idades\bin\Debug\netcoreapp2.2\Calculo de Idades.dll
+C:\Users\fic\Documents\C#\Calculo de Idades\bin\Debug\netcoreapp2.2\Calculo de Idades.pdb
+C:\Users\fic\Documents\C#\Calculo de Idades\obj\Debug\netcoreapp2.2\Calculo de Idades.csprojAssemblyReference.cache
+C:\Users\fic\Documents\C#\Calculo de Idades\obj\Debug\netcoreapp2.2\Calculo de Idades.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\C#\Calculo de Idades\obj\Debug\netcoreapp2.2\Calculo de Idades.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\C#\Calculo de Idades\obj\Debug\netcoreapp2.2\Calculo de Idades.AssemblyInfo.cs
+C:\Users\fic\Documents\C#\Calculo de Idades\obj\Debug\netcoreapp2.2\Calculo de Idades.dll
+C:\Users\fic\Documents\C#\Calculo de Idades\obj\Debug\netcoreapp2.2\Calculo de Idades.pdb

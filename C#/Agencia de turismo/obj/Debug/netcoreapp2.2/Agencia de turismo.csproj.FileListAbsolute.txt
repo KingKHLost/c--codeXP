@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\C#\Agencia de turismo\bin\Debug\netcoreapp2.2\Agencia de turismo.deps.json
+C:\Users\fic\Documents\C#\Agencia de turismo\bin\Debug\netcoreapp2.2\Agencia de turismo.runtimeconfig.json
+C:\Users\fic\Documents\C#\Agencia de turismo\bin\Debug\netcoreapp2.2\Agencia de turismo.runtimeconfig.dev.json
+C:\Users\fic\Documents\C#\Agencia de turismo\bin\Debug\netcoreapp2.2\Agencia de turismo.dll
+C:\Users\fic\Documents\C#\Agencia de turismo\bin\Debug\netcoreapp2.2\Agencia de turismo.pdb
+C:\Users\fic\Documents\C#\Agencia de turismo\obj\Debug\netcoreapp2.2\Agencia de turismo.csprojAssemblyReference.cache
+C:\Users\fic\Documents\C#\Agencia de turismo\obj\Debug\netcoreapp2.2\Agencia de turismo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\C#\Agencia de turismo\obj\Debug\netcoreapp2.2\Agencia de turismo.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\C#\Agencia de turismo\obj\Debug\netcoreapp2.2\Agencia de turismo.AssemblyInfo.cs
+C:\Users\fic\Documents\C#\Agencia de turismo\obj\Debug\netcoreapp2.2\Agencia de turismo.dll
+C:\Users\fic\Documents\C#\Agencia de turismo\obj\Debug\netcoreapp2.2\Agencia de turismo.pdb

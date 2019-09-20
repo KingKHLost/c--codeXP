@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\C#\Calculo por Semana\bin\Debug\netcoreapp2.2\Calculo por Semana.deps.json
+C:\Users\fic\Documents\C#\Calculo por Semana\bin\Debug\netcoreapp2.2\Calculo por Semana.runtimeconfig.json
+C:\Users\fic\Documents\C#\Calculo por Semana\bin\Debug\netcoreapp2.2\Calculo por Semana.runtimeconfig.dev.json
+C:\Users\fic\Documents\C#\Calculo por Semana\bin\Debug\netcoreapp2.2\Calculo por Semana.dll
+C:\Users\fic\Documents\C#\Calculo por Semana\bin\Debug\netcoreapp2.2\Calculo por Semana.pdb
+C:\Users\fic\Documents\C#\Calculo por Semana\obj\Debug\netcoreapp2.2\Calculo por Semana.csprojAssemblyReference.cache
+C:\Users\fic\Documents\C#\Calculo por Semana\obj\Debug\netcoreapp2.2\Calculo por Semana.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\C#\Calculo por Semana\obj\Debug\netcoreapp2.2\Calculo por Semana.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\C#\Calculo por Semana\obj\Debug\netcoreapp2.2\Calculo por Semana.AssemblyInfo.cs
+C:\Users\fic\Documents\C#\Calculo por Semana\obj\Debug\netcoreapp2.2\Calculo por Semana.dll
+C:\Users\fic\Documents\C#\Calculo por Semana\obj\Debug\netcoreapp2.2\Calculo por Semana.pdb

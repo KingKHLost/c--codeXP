@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\C#\Calculo do cinema\bin\Debug\netcoreapp2.2\Calculo do cinema.deps.json
+C:\Users\fic\Documents\C#\Calculo do cinema\bin\Debug\netcoreapp2.2\Calculo do cinema.runtimeconfig.json
+C:\Users\fic\Documents\C#\Calculo do cinema\bin\Debug\netcoreapp2.2\Calculo do cinema.runtimeconfig.dev.json
+C:\Users\fic\Documents\C#\Calculo do cinema\bin\Debug\netcoreapp2.2\Calculo do cinema.dll
+C:\Users\fic\Documents\C#\Calculo do cinema\bin\Debug\netcoreapp2.2\Calculo do cinema.pdb
+C:\Users\fic\Documents\C#\Calculo do cinema\obj\Debug\netcoreapp2.2\Calculo do cinema.csprojAssemblyReference.cache
+C:\Users\fic\Documents\C#\Calculo do cinema\obj\Debug\netcoreapp2.2\Calculo do cinema.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\C#\Calculo do cinema\obj\Debug\netcoreapp2.2\Calculo do cinema.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\C#\Calculo do cinema\obj\Debug\netcoreapp2.2\Calculo do cinema.AssemblyInfo.cs
+C:\Users\fic\Documents\C#\Calculo do cinema\obj\Debug\netcoreapp2.2\Calculo do cinema.dll
+C:\Users\fic\Documents\C#\Calculo do cinema\obj\Debug\netcoreapp2.2\Calculo do cinema.pdb
